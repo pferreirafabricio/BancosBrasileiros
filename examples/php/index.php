@@ -1,8 +1,8 @@
 <?php
 
-use Guibranco\BancosBrasileiros\Schemas\Bank;
-
 require __DIR__ . '/vendor/autoload.php';
+
+use Guibranco\BancosBrasileiros\Bank;
 
 echo "Running...\n";
 

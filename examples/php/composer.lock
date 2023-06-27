@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "66d0b2d64ed3a45d866590554deb98f5",
+    "content-hash": "336d44104e32633f68db810dec1cd423",
     "packages": [
         {
             "name": "guibranco/bancos-brasileiros",

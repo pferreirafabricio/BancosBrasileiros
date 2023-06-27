@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "66d0b2d64ed3a45d866590554deb98f5",
+    "packages": [
+        {
+            "name": "guibranco/bancos-brasileiros",
+            "version": "4.0.192",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guibranco/BancosBrasileiros.git",
+                "reference": "22477240c6fc71df54abed702a404b7f29dcd025"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guibranco/BancosBrasileiros/zipball/22477240c6fc71df54abed702a404b7f29dcd025",
+                "reference": "22477240c6fc71df54abed702a404b7f29dcd025",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Guibranco\\BancosBrasileiros\\": [
+                        "data/",
+                        "schemas/"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Guilherme Branco Stracini",
+                    "email": "guilherme@guilhermebranco.com.br",
+                    "homepage": "https://guilherme.stracini.com"
+                }
+            ],
+            "description": "Brazilian commercial banks list",
+            "homepage": "https://guibranco.github.io/BancosBrasileiros/",
+            "support": {
+                "issues": "https://github.com/guibranco/BancosBrasileiros/issues",
+                "source": "https://github.com/guibranco/BancosBrasileiros/tree/4.0.192"
+            },
+            "time": "2023-06-26T18:49:57+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
